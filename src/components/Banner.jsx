@@ -36,7 +36,7 @@ function Banner() {
       {
         id: 4,
         image: BigAutoBannerImage,
-        title: t("title3"),
+        title: t("title4"),
         firstcontent: t("firstcontent4"),
         secondcontent: t("secondcontent"),
       },

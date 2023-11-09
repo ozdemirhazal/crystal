@@ -1,16 +1,14 @@
 import { defineConfig } from "vite";
-import react from "@vitejs/plugin-react";
+import reactRefresh from "@vitejs/plugin-react-refresh";
 
-// https://vitejs.dev/config/
-export default defineConfig(({ command }) => {
-  const config = {
-    plugins: [react()],
-    base: "/",
-  };
-
-  if (command !== "serve") {
-    config.base = "/";
-  }
-
-  return config;
+export default defineConfig({
+  plugins: [reactRefresh()],
+  build: {
+    outDir: "public",
+  },
+  server: {
+    fs: {
+      strict: false,
+    },
+  },
 });
