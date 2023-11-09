@@ -1,0 +1,109 @@
+{
+  "desktopContent": "Crystal | Auto Glass",
+  "mobileContent": "Crystal | Auto Glass",
+  "header_h1": "Wohnmobile, Autos, Yachten und mehr...",
+  "header_p": "Mit unserer Fachkenntnis im Bereich Glas machen wir Ihre Reisen komfortabler und sicherer. Mit jahrelanger Erfahrung und hervorragenden Qualitätsstandards bieten wir Ihnen die besten Produkte.",
+  "menu": {
+    "homepage": "Startseite",
+    "products": "Produkte",
+    "about": "Über uns",
+    "contact": "Kontakt"
+  },
+  "language_en": "EN",
+  "language_de": "DE",
+  "language_tr": "TR",
+  "category-h1": "Produktkategorien",
+  "categories": [
+    "Wohnmobilglas",
+    "Autoglas",
+    "Großes Autoglas",
+    "Yachtglas",
+    "Auto-Glasfolie"
+  ],
+  "caravanProducts": [
+    {
+      "name": "Ürün 1",
+      "price": 19.99,
+      "image": "/images/card-caravan.png"
+    },
+    {
+      "name": "Ürün 2",
+      "price": 24.99,
+      "image": "/images/card-caravan.png"
+    },
+    {
+      "name": "Ürün 1",
+      "price": 19.99,
+      "image": "/images/card-caravan.png"
+    },
+    {
+      "name": "Ürün 1",
+      "price": 19.99,
+      "image": "/images/card-caravan.png"
+    },
+    {
+      "name": "Ürün 1",
+      "price": 19.99,
+      "image": "/images/card-caravan.png"
+    },
+    {
+      "name": "Ürün 1",
+      "price": 19.99,
+      "image": "/images/card-caravan.png"
+    }
+  ],
+  "price-label": "Preis",
+  "buy-button": "Kaufen",
+  "whyus-h1": "Warum Sie uns wählen sollten",
+  "whyus-p": "Unser Unternehmen bietet hochwertige Glasprodukte, die speziell für Wohnmobile und Fahrzeuge konzipiert sind, unterstützt von jahrelanger Branchenerfahrung und Fachwissen.",
+  "insurance-h1": "Sind Sie versichert?",
+  "insurance-p": "Die Sicherheit unserer Kunden und die zuverlässige Lieferung unserer Produkte haben für uns immer höchste Priorität. Wir liefern Ihre Fahrzeuggläser sicher direkt zu Ihnen oder Ihrem Unternehmen von unserem Produktionsstandort aus.",
+  "certified-h1": "Zertifizierte Gläser!",
+  "certified-p": "Wir arbeiten nur mit europäisch zertifizierten Gläsern, die für den Straßenverkehr geeignet sind, und bieten eine Garantie für unsere Produktinstallationen.",
+  "repair-h1": "Reparaturen nötig?",
+  "repair-p": "Um die langanhaltende und störungsfreie Verwendung Ihrer Glasprodukte zu gewährleisten, bieten wir Glasreparaturdienstleistungen an. Im Rahmen unseres Glasreparaturservices bieten wir professionelle Lösungen für Risse, Flecken und andere Schäden an Ihren Glasprodukten.",
+  "installing-h1": "Glaslieferung",
+  "installing-p": "Mit unseren modernen Einrichtungen sind wir ein führendes Unternehmen in der Herstellung und Verteilung hochwertiger Glasprodukte. Wir sind hier, um alle Arten von Glaslösungen zu bieten, die Sie benötigen.",
+  "card-caravan-h1": "Wohnmobilglas",
+  "card-caravan-p": "Das Auge Ihres Wohnmobils, Tor zur Welt",
+  "card-car-h1": "Autoglas",
+  "card-car-p": "Glasqualität ist der erste Schritt zu einer zuverlässigen Fahrt",
+  "card-bigauto-h1": "Große Autogläser",
+  "card-bigauto-p": "Große Gläser, große Sicht und Komfort",
+  "card-yacht-h1": "Yachtglas",
+  "card-yacht-p": "Entdecken Sie die Schönheit des Meeres ungestört",
+  "card-carfilm-h1": "Autoglasfolie",
+  "card-carfilm-p": "Glasfolie: Verbessern Sie Ihr Fahrerlebnis",
+  "third-container-h1": "Glas für alle Marken",
+  "third-container-slogan": "Entdecken Sie Ihren Komfort mit der Fachkenntnis für Wohnmobilglas!",
+  "third-container-p": "Unsere Gläser sind so konzipiert und getestet, dass sie den anspruchsvollsten Wetterbedingungen standhalten. Spezielle Beschichtungen, die die Sonnenstrahlen blockieren, sorgen für ein komfortables Fahrerlebnis für Fahrer und Passagiere. Darüber hinaus zeichnen sich unsere Gläser durch hohe Schlagfestigkeit aus, was einen erheblichen Sicherheitsvorteil bietet.",
+  "what-we-did_h1": "Was wir gemacht haben",
+  "what-we-did_p": "Wir bedienen weltweit viele Kunden und sind auf internationaler Ebene eine bekannte Marke.",
+  "customer-h1": "400",
+  "customer-p": "Wir haben bisher über 400 Kunden bedient, und ihre Zufriedenheit hat bei uns immer oberste Priorität.",
+  "productcount-h1": "10,000+",
+  "productcount-p": "Wir haben in unserer Fabrik über 10.000 Produkte hergestellt und sind stolz darauf, hochwertige Produkte an unsere Kunden zu liefern.",
+  "experience-h1": "15",
+  "experience-p": "Wir sind seit 15 Jahren in der Branche tätig und haben in dieser Zeit viele erfolgreiche Projekte abgeschlossen.",
+  "project-h1": "200+",
+  "project-p": "Wir haben bisher über 200 Projekte erfolgreich abgeschlossen, von denen jedes einzigartig und bedeutend ist.",
+  "about-us": "Über uns",
+  "about-us-p": "Wir sind seit Jahren eine zuverlässige und innovative Marke in der Automobilglasbranche.",
+  "vision-h1": "Vision",
+  "vision-p": "Unsere Vision besteht darin, unsere führende Position in der Automobilindustrie zu stärken und weltweit ein Vorreiter in Sachen Innovation und Sicherheit für Fahrzeuge zu sein. Wir verpflichten uns dazu, hochwertige Glasprodukte für unsere Kunden anzubieten und dabei Umweltschutz und Sicherheit in den Vordergrund zu stellen. In der Zukunft streben wir danach, als ein Unternehmen bekannt zu sein, das die Transformation in der Automobilglasindustrie vorantreibt. Mit unseren innovativen Produkten, hervorragendem Service und nachhaltigen Produktionspraktiken wollen wir die Kundenzufriedenheit und den gesellschaftlichen Nutzen steigern.",
+  "mision-h1": "Mission",
+  "mision-p": "Unsere Mission besteht darin, hochwertige Glasprodukte anzubieten, die Sicherheit und Komfort für Fahrzeugbesitzer kombinieren, und gleichzeitig einen wertvollen Beitrag zur Automobilindustrie leisten. Wir setzen uns dafür ein, die Sicherheit von Fahrern und Passagieren durch die Herstellung von strapazierfähigem, transparentem und nachhaltigem Glas zu gewährleisten. Darüber hinaus bemühen wir uns kontinuierlich, umweltfreundliche Produkte zu entwickeln und Umweltschutz zu betonen. Unser Ziel ist es, die Kundenzufriedenheit zu maximieren und die Industriestandards zu übertreffen.",
+  "footer-opening-hours-1": "Öffnungszeiten: Montag - Freitag: 8:00 - 18:00 Uhr / Samstag: 12:00 - 17:00 Uhr",
+  "footer-about-us-h1": "Über uns",
+  "footer-about-us-p": "Wir sind seit Jahren eine zuverlässige und innovative Marke in der Automobilglasbranche. Seit unserer Gründung haben wir unsere Branchenführerschaft beibehalten, indem wir unseren Kunden hochwertige und langlebige Automobilgläser angeboten haben. Wir arbeiten daran, die Bedürfnisse unserer geschätzten Kunden zu erfüllen und Ihre Fahrzeuge sicherer und komfortabler zu machen.",
+  "footer-information-h1": "Information",
+  "footer-information-turkey-h2": "Türkei",
+  "footer-information-turkey-address-p": "Veysel Karani Mahallesi Eski Gemlik Yolu Caddesi 196/1 Osmangazi Bursa",
+  "footer-information-turkey-phonenumber-p": "+90 535 989 65 69",
+  "footer-information-germany-h2": "Deutschland",
+  "footer-information-germany-address-p": "Kolonnenstr. 8, 10827 Berlin",
+  "footer-information-germany-phonenumber-p": "+49 176 20173967",
+  "footer-information-mail-p": "info@crystalag.de",
+  "footer-follow-us-h1": "Folge uns",
+  "footer-copyright-p": "Urheberrechte © 2009-2023 Crystal | Auto Glass"
+}

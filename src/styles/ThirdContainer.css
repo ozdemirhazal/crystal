@@ -1,0 +1,87 @@
+.thirdcontainer {
+  display: flex;
+  padding: 20px;
+  background-color: #fff;
+  margin: auto;
+  max-width: 1170px;
+}
+
+.third_container_images {
+  display: flex;
+  flex: 1;
+  justify-content: space-around; /* Yatayda ortala */
+  align-items: center; /* Dikeyde ortala */
+  padding: 20px;
+}
+
+.third_container_images img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.third_container_text {
+  flex: 2;
+  padding: 50px;
+  color: #000;
+  text-align: center;
+}
+
+.third_container_text h1 {
+  font-size: 60px;
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: 2.5px;
+}
+
+.third_container_text p {
+  color: #000;
+  font-style: italic;
+  text-align: center;
+  font-weight: 1000px;
+  font-size: 16px;
+}
+
+.third_container_text p {
+  color: #000;
+  text-align: center;
+  margin-top: 60px;
+  font-weight: 1000px;
+  font-size: 16px;
+}
+
+.third_container_text hr {
+  border: none;
+  border-top: 1px solid #0000001c;
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+
+@media only screen and (max-width: 768px) {
+  .thirdcontainer {
+    display: flex;
+    flex-direction: column; /* Mobil cihazlarda sütun düzeni */
+    align-items: center;
+    padding: 10px; /* Mobil cihazlar için içerik alanı iç boşluğu ayarı */
+  }
+
+  .third_container_images img {
+    max-width: 100%;
+    height: auto; /* Mobil cihazlar için görüntü boyutu ayarı */
+  }
+
+  .third_container_text h1 {
+    font-size: 35px; /* Mobil cihazlar için metin boyutu */
+    margin-top: 30px; /* Mobil cihazlarda metin ile resim arasındaki boşluk ayarı */
+  }
+
+  .third_container_text p {
+    font-size: 14px; /* Mobil cihazlar için metin boyutu */
+    margin-top: 20px; /* Mobil cihazlar için metin aralığı ayarı */
+  }
+
+  .third_container_text hr {
+    margin-top: 10px;
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "desktopContent": "Crystal | Auto Glass",
+  "mobileContent": "Crystal | Auto Glass",
+  "header_h1": "Karavanlar, Arabalar, Yatlar ve Daha Fazlası...",
+  "header_p": "Cam konusundaki uzmanlığımızla seyahatlerinizi daha konforlu ve güvenli hale getiriyoruz. Yılların deneyimi ve mükemmel kalite standartları ile size en iyi ürünleri sunuyoruz.",
+  "menu": {
+    "homepage": "Anasayfa",
+    "products": "Ürünler",
+    "about": "Hakkımızda",
+    "contact": "İletişim"
+  },
+  "language_en": "EN",
+  "language_de": "DE",
+  "language_tr": "TR",
+  "category-h1": "Ürün Kategorileri",
+  "categories": [
+    "Karavan Camları",
+    "Otomobil Camları",
+    "Büyük Araç Camları",
+    "Yat Camları",
+    "Araç Cam Filmi"
+  ],
+  "caravanProducts": [
+    {
+      "name": "Ürün 1",
+      "price": 19.99,
+      "image": "/images/card-caravan.png"
+    },
+    {
+      "name": "Ürün 2",
+      "price": 24.99,
+      "image": "/images/card-caravan.png"
+    },
+    {
+      "name": "Ürün 1",
+      "price": 19.99,
+      "image": "/images/card-caravan.png"
+    },
+    {
+      "name": "Ürün 1",
+      "price": 19.99,
+      "image": "/images/card-caravan.png"
+    },
+    {
+      "name": "Ürün 1",
+      "price": 19.99,
+      "image": "/images/card-caravan.png"
+    },
+    {
+      "name": "Ürün 1",
+      "price": 19.99,
+      "image": "/images/card-caravan.png"
+    }
+  ],
+  "price-label": "Fiyat",
+  "buy-button": "Satın Al",
+  "whyus-h1": "Neden Bizi Seçmelisiniz?",
+  "whyus-p": "Şirketimiz, özellikle karavanlar ve konaklama araçları için özel olarak tasarlanmış yüksek kaliteli cam ürünleri sunmaktadır. Yılların deneyimi ve uzmanlığına dayalı olarak müşteri güvenliği ve ürünlerimizin güvenilir teslimatı her zaman önceliğimizdir. Araç camlarınızı üretim tesisimizden güvenli bir şekilde size veya işletmenize doğrudan teslim ediyoruz.",
+  "insurance-h1": "Sigortalı Mısınız?",
+  "insurance-p": "Müşteri güvenliği ve ürünlerimizin güvenilir teslimatı her zaman önceliğimizdir. Araç camlarınızı üretim tesisimizden güvenli bir şekilde size veya işletmenize doğrudan teslim ediyoruz.",
+  "certified-h1": "Sertifikalı Camlar!",
+  "certified-p": "Yalnızca Avrupa'da yol kullanımına uygun sertifikalı camlarla çalışıyor ve ürün montajlarımız için garanti sağlıyoruz.",
+  "repair-h1": "Onarıma İhtiyacınız Var mı?",
+  "repair-p": "Cam ürünlerinizin uzun ömürlü ve sorunsuz kullanımını sağlamak için cam onarım hizmeti sunuyoruz. Cam onarım hizmetimiz kapsamında cam ürünlerinizdeki çatlaklar, lekeler ve diğer hasarlar için profesyonel çözümler sunuyoruz.",
+  "installing-h1": "Cam Teslimatı",
+  "installing-p": "Modern tesislerimizle yüksek kaliteli cam ürünlerinin üretim ve dağıtımında öncü bir şirketiz. İhtiyacınız olan tüm cam çözümlerini sunmak için buradayız.",
+  "card-caravan-h1": "Karavan Camları",
+  "card-caravan-p": "Karavanınızın Gözü, Dünyaya Açılan Kapınız",
+  "card-car-h1": "Otomobil Camları",
+  "card-car-p": "Cam Kalitesi Güvenilir Sürüşün İlk Adımıdır",
+  "card-bigauto-h1": "Büyük Araç Camları",
+  "card-bigauto-p": "Büyük Camlar, Büyük Görüş ve Konfor",
+  "card-yacht-h1": "Yat Camları",
+  "card-yacht-p": "Kesintisiz Denizin Güzelliğini Keşfedin",
+  "card-carfilm-h1": "Otomobil Cam Filmi",
+  "card-carfilm-p": "Cam Filmi: Sürüş Deneyiminizi Geliştirin",
+  "third-container-h1": "Tüm Markalar İçin Camlar",
+  "third-container-slogan": "Karavan Camları Uzmanlığıyla Konforunuzu Keşfedin!",
+  "third-container-p": "Cam ürünlerimiz, en zorlu hava koşullarına dayanacak şekilde tasarlanmış ve test edilmiştir. Güneş ışınlarını engelleyen özel kaplamalar, sürücüler ve yolcular için konforlu bir sürüş deneyimi sağlar. Ayrıca camlarımız yüksek darbe dayanımına sahiptir, bu da önemli bir güvenlik avantajı sağlar.",
+  "what-we-did_h1": "Neler Yaptık",
+  "what-we-did_p": "Dünya genelinde birçok müşteriye hizmet veriyor ve uluslararası arenada tanınmış bir marka haline geldik.",
+  "customer-h1": "400",
+  "customer-p": "Bugüne kadar 400'den fazla müşteriye hizmet verdik ve müşteri memnuniyeti her zaman önceliğimizdir.",
+  "productcount-h1": "10,000+",
+  "productcount-p": "Fabrikamızda 10,000'den fazla ürün ürettik ve müşterilerimize yüksek kaliteli ürünler sunmaktan gurur duyuyoruz.",
+  "experience-h1": "15",
+  "experience-p": "15 yıldır sektördeyiz ve bu süre zarfında birçok başarılı proje tamamladık.",
+  "project-h1": "200+",
+  "project-p": "Bugüne kadar 200'den fazla projeyi başarıyla tamamladık, her biri benzersiz ve önemli.",
+  "about-us": "Hakkımızda",
+  "about-us-p": "Yıllardır otomotiv cam sektöründe güvenilir ve yenilikçi bir marka olarak hizmet vermekteyiz.",
+  "vision-h1": "Vizyonumuz",
+  "vision-p": "Firmamızın vizyonu, otomotiv endüstrisindeki lider konumumuzu daha da güçlendirmek ve dünya genelinde araçlar için inovasyon ve güvenlikte öncü olmaktır. Müşterilerimize yüksek kaliteli cam ürünleri sunarken çevresel sürdürülebilirliği ve güvenliği ön planda tutmayı taahhüt ediyoruz. Gelecekte, araç camı endüstrisindeki dönüşümü yönlendiren bir firma olarak bilinmek istiyoruz. Yenilikçi ürünlerimiz, mükemmel hizmetimiz ve sürdürülebilir üretim uygulamalarımızla müşteri memnuniyetini ve toplumsal faydayı artırmayı hedefliyoruz.",
+  "mision-h1": "Misyonumuz",
+  "mision-p": "Misyonumuz, araç sahiplerine güvenliğin ve konforun birleştiği yüksek kaliteli cam ürünleri sunmak ve otomotiv endüstrisine katkıda bulunmaktır. Müşterilerimize dayanıklı, şeffaf ve sürdürülebilir camlar üreterek sürücülerin ve yolcuların güvenliğini sağlamayı amaçlıyoruz. Ayrıca, çevresel sürdürülebilirliği ön planda tutarak yeşil ürünler geliştirmek için sürekli çaba gösteriyoruz. Müşteri memnuniyetini en üst düzeye çıkarmak ve endüstri standartlarını aşmayı hedefliyoruz.",
+  "footer-opening-hours-1": "Açılış Saatleri: Pazartesi - Cuma: 8:00 - 18:00 / Cumartesi: 12:00 - 17:00",
+  "footer-about-us-h1": "Hakkımızda",
+  "footer-about-us-p": "Yıllardır otomotiv cam sektöründe güvenilir ve yenilikçi bir marka olarak hizmet vermekteyiz. Kuruluşumuzdan bu yana endüstri liderliğimizi yüksek kaliteli ve dayanıklı otomobil camları sunarak sürdürdük. Değerli müşterilerimizin ihtiyaçlarını karşılamak ve araçlarınızı daha güvenli ve konforlu hale getirmek için çalışıyoruz.",
+  "footer-information-h1": "Bilgi",
+  "footer-information-turkey-h2": "Türkiye",
+  "footer-information-turkey-address-p": "Veysel Karani Mahallesi Eski Gemlik Yolu Caddesi 196/1 Osmangazi Bursa",
+  "footer-information-turkey-phonenumber-p": "+90 535 989 65 69",
+  "footer-information-germany-h2": "Almanya",
+  "footer-information-germany-address-p": "Kolonnenstr. 8, 10827 Berlin",
+  "footer-information-germany-phonenumber-p": "+49 176 20173967",
+  "footer-information-mail-p": "info@crystalag.de",
+  "footer-follow-us-h1": "Bizi Takip Edin",
+  "footer-copyright-p": "Tüm Hakları Saklıdır. © 2009-2023 Crystal | Auto Glass"
+}

@@ -1,0 +1,136 @@
+.whyus-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 1170px;
+  margin: auto;
+}
+
+.whyus-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  color: #000;
+  font-size: 16px;
+  margin-top: 40px;
+}
+
+.whyus-text h1 {
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+}
+
+.whyus-text p {
+  font-size: 20px;
+  color: #000;
+  text-align: center;
+  font-style: italic;
+  padding: 30px 100px;
+}
+
+.other-content {
+  display: flex;
+  justify-content: space-around;
+}
+
+.certified,
+.repair,
+.installing,
+.insurance {
+  flex: 1; /* Tüm içerik öğeleri eşit genişlikte olsun */
+  margin: 10px;
+  text-align: center;
+}
+
+/* Aynı stilleri tüm içerik öğeleri için kullanabilirsiniz */
+.certified-image,
+.repair-image,
+.installing-image,
+.insurance-image,
+.certified-text,
+.repair-text,
+.installing-text,
+.insurance-text {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.certified-text,
+.repair-text,
+.installing-text,
+.insurance-text {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.certified-text h1,
+.repair-text h1,
+.installing-text h1,
+.insurance-text h1 {
+  font-size: 20px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.certified-text p,
+.repair-text p,
+.installing-text p,
+.insurance-text p {
+  font-size: 15px;
+  color: #000;
+  max-width: 100%;
+  text-align: center;
+  padding: 5px;
+}
+@media only screen and (max-width: 768px) {
+  .whyus-container {
+    display: flex;
+    flex-direction: column; /* Mobil cihazlarda sütun düzeni */
+    align-items: center;
+    padding: 10px; /* Mobil cihazlar için içerik alanı iç boşluğu ayarı */
+  }
+
+  .whyus-text h1[data-translation-key="whyus-h1"] {
+    font-size: 25px; /* Mobil cihazlar için metin boyutu */
+    margin-top: 20px; /* Mobil cihazlarda metin ile resim arasındaki boşluk ayarı */
+  }
+
+  .whyus-text p[data-translation-key="whyus-p"] {
+    font-size: 16px; /* Mobil cihazlar için metin boyutu */
+    padding: 10px;
+  }
+
+  /* Mobil uyumlu sütunlar */
+  .other-content {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .certified,
+  .repair,
+  .installing {
+    width: 100%;
+    margin: 10px 40px;
+  }
+
+  .certified-text h1,
+  .repair-text h1,
+  .installing-text h1 {
+    font-size: 16px;
+  }
+
+  .certified-text p,
+  .repair-text p,
+  .installing-text p {
+    font-size: 14px;
+  }
+}

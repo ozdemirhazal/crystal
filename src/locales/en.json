@@ -1,0 +1,280 @@
+{
+  "desktopContent": "Crystal | Auto Glass",
+  "mobileContent": "Crystal | Auto Glass",
+  "header_h1": "Caravans, Cars, Yachts, and More...",
+  "header_p": "We make your travels more comfortable and safe with our expertise in glass. With years of experience and excellent quality standards, we offer you the best products.",
+  "menu": {
+    "homepage": "Homepage",
+    "products": "Products",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "title1": "Caravan Glass",
+  "title2": "Car Glass",
+  "title3": "Yacht Glass",
+  "title4": "Big Auto Glass",
+  "firstcontent1": "The Eye of Your Caravan, Gateway to the World",
+  "firstcontent2": "Glass Quality is the First Step to Reliable Driving",
+  "firstcontent3": "Discover the Beauty of the Sea Uninterrupted",
+  "firstcontent4": "Big Glasses, Big Visibility and Comfort",
+  "category-h1": "Products Categories",
+  "secondcontent": "Download PDF for Products and Information",
+  "categories": [
+    "Caravan Glass",
+    "Auto Glass",
+    "Big Auto Glass",
+    "Yacht Glass",
+    "Car Glass Film"
+  ],
+  "caravanProducts": [
+    {
+      "name": "Ürün 1",
+      "price": 19.99,
+      "image": "/images/card-caravan.png",
+      "description": "Double dark-tinted acrylic glass. Resistant to UV rays. Durable and lightweight aluminum frame. Waterproof and airtight."
+    },
+    {
+      "name": "Ürün 2",
+      "price": 24.99,
+      "image": "/images/card-caravan.png"
+    },
+    {
+      "name": "Ürün 1",
+      "price": 19.99,
+      "image": "/images/card-caravan.png"
+    },
+    {
+      "name": "Ürün 1",
+      "price": 19.99,
+      "image": "/images/card-caravan.png"
+    },
+    {
+      "name": "Ürün 1",
+      "price": 19.99,
+      "image": "/images/card-caravan.png"
+    },
+    {
+      "name": "Ürün 1",
+      "price": 19.99,
+      "image": "/images/card-caravan.png"
+    }
+  ],
+  "carProducts": [
+    {
+      "name": "Ürün 1",
+      "price": 19.99,
+      "image": "/images/card-car.png"
+    },
+    {
+      "name": "Ürün 2",
+      "price": 24.99,
+      "image": "/images/card-car.png"
+    },
+    {
+      "name": "Ürün 1",
+      "price": 19.99,
+      "image": "/images/card-car.png"
+    },
+    {
+      "name": "Ürün 1",
+      "price": 19.99,
+      "image": "/images/card-car.png"
+    },
+    {
+      "name": "Ürün 1",
+      "price": 19.99,
+      "image": "/images/card-car.png"
+    },
+    {
+      "name": "Ürün 1",
+      "price": 19.99,
+      "image": "/images/card-car.png"
+    }
+  ],
+  "bigautoProducts": [
+    {
+      "name": "Ürün 1",
+      "price": 19.99,
+      "image": "/images/card-bigauto.png"
+    },
+    {
+      "name": "Ürün 2",
+      "price": 24.99,
+      "image": "/images/card-bigauto.png"
+    },
+    {
+      "name": "Ürün 1",
+      "price": 19.99,
+      "image": "/images/card-bigauto.png"
+    },
+    {
+      "name": "Ürün 1",
+      "price": 19.99,
+      "image": "/images/card-bigauto.png"
+    },
+    {
+      "name": "Ürün 1",
+      "price": 19.99,
+      "image": "/images/card-bigauto.png"
+    },
+    {
+      "name": "Ürün 1",
+      "price": 19.99,
+      "image": "/images/card-bigauto.png"
+    }
+  ],
+  "yachtProducts": [
+    {
+      "name": "Ürün 1",
+      "price": 19.99,
+      "image": "/images/card-yacht.png"
+    },
+    {
+      "name": "Ürün 2",
+      "price": 24.99,
+      "image": "/images/card-yacht.png"
+    },
+    {
+      "name": "Ürün 1",
+      "price": 19.99,
+      "image": "/images/card-yacht.png"
+    },
+    {
+      "name": "Ürün 1",
+      "price": 19.99,
+      "image": "/images/card-yacht.png"
+    },
+    {
+      "name": "Ürün 1",
+      "price": 19.99,
+      "image": "/images/card-yacht.png"
+    },
+    {
+      "name": "Ürün 1",
+      "price": 19.99,
+      "image": "/images/card-yacht.png"
+    }
+  ],
+  "carglassfilmProducts": [
+    {
+      "name": "Ürün 1",
+      "price": 19.99,
+      "image": "/images/card-carglassfilm.png"
+    },
+    {
+      "name": "Ürün 2",
+      "price": 24.99,
+      "image": "/images/card-carglassfilm.png"
+    },
+    {
+      "name": "Ürün 1",
+      "price": 19.99,
+      "image": "/images/card-carglassfilm.png"
+    },
+    {
+      "name": "Ürün 1",
+      "price": 19.99,
+      "image": "/images/card-carglassfilm.png"
+    },
+    {
+      "name": "Ürün 1",
+      "price": 19.99,
+      "image": "/images/card-carglassfilm.png"
+    },
+    {
+      "name": "Ürün 1",
+      "price": 19.99,
+      "image": "/images/card-carglassfilm.png"
+    }
+  ],
+  "homepageproducts": [
+    {
+      "id": 1,
+      "name": "Ürün 1",
+      "price": 19.99,
+      "description": "Çift katmanlı koyu tonlu akrilik cam."
+    },
+    {
+      "id": 2,
+      "name": "Ürün 2",
+      "price": 24.99,
+      "description": "Güçlendirilmiş çerçeve ile siyah güneş gözlüğü."
+    },
+    {
+      "id": 3,
+      "name": "Ürün 3",
+      "price": 29.99,
+      "description": "Yüksek kapasiteli, hızlı şarj özellikli pil."
+    },
+    {
+      "id": 4,
+      "name": "Ürün 4",
+      "price": 14.99,
+      "description": "Ses yalıtımlı, kablosuz kulaklık."
+    },
+    {
+      "id": 5,
+      "name": "Ürün 5",
+      "price": 49.99,
+      "description": "Su geçirmez, spor kamerası."
+    }
+  ],
+  "price-label": "Price",
+  "buy-button": "Buy",
+  "close-button": "Close",
+  "language_en": "EN",
+  "language_de": "DE",
+  "language_tr": "TR",
+  "whyus-h1": "Why Choose Us?",
+  "whyus-p": "Our company offers high-quality glass products specially designed for caravans and accommodation vehicles, backed by years of industry experience and expertise.",
+  "insurance-h1": "Are You Insured?",
+  "insurance-p": "Customer safety and the reliable delivery of our products are always our top priority. We deliver your vehicle glasses directly to you or your business securely from our production facility.",
+  "certified-h1": "Certified Glasses!",
+  "certified-p": "We work with only European certified glasses suitable for road use, and we provide a warranty for our product installations.",
+  "repair-h1": "Need Repairs?",
+  "repair-p": "To ensure the long-lasting and trouble-free use of your glass products, we offer glass repair services. Under our glass repair service, we provide professional solutions for cracks, spots, and other damages to your glass products.",
+  "installing-h1": "Glass Shipping",
+  "installing-p": "With our modern facilities, we are a leading company in the production and distribution of high-quality glass products. We are here to provide all kinds of glass solutions you need.",
+  "card-caravan-h1": "Caravan Glass",
+  "card-caravan-p": "The Eye of Your Caravan, Gateway to the World",
+  "card-car-h1": "Car Glass",
+  "card-car-p": "Glass Quality is the First Step to Reliable Driving",
+  "card-bigauto-h1": "Large Auto Glass",
+  "card-bigauto-p": "Large Glasses, Large Visibility and Comfort",
+  "card-yacht-h1": "Yacht Glass",
+  "card-yacht-p": "Discover the Beauty of the Sea Uninterrupted",
+  "card-carfilm-h1": "Car Glass Film",
+  "card-carfilm-p": "Glass Film: Enhance Your Driving Experience",
+  "third-container-h1": "Glass for All Brands",
+  "third-container-slogan": "Explore Your Comfort with Caravan Glass Expertise!",
+  "third-container-p": "Our glasses are designed and tested to withstand the most challenging weather conditions. Special coatings that block the sun's rays ensure a comfortable driving experience for drivers and passengers. Additionally, our glasses have high impact resistance, providing a significant safety advantage.",
+  "what-we-did_h1": "What We've Done",
+  "what-we-did_p": "We serve many customers worldwide and have become a well-known brand on the international stage.",
+  "customer-h1": "400",
+  "customer-p": "We have served over 400 customers to date, and their satisfaction is always our top priority.",
+  "productcount-h1": "10,000+",
+  "productcount-p": "We have produced over 10,000 products in our factory and take pride in delivering high-quality products to our customers.",
+  "experience-h1": "15",
+  "experience-p": "We have been in the industry for 15 years and have completed many successful projects during this time.",
+  "project-h1": "200+",
+  "project-p": "We have successfully completed over 200 projects to date, each one unique and significant.",
+  "about-us": "About Us",
+  "about-us-p": "For years, we have been serving as a reliable and innovative brand in the automotive glass sector.",
+  "vision-h1": "V",
+  "vision-p": "Our vision is to strengthen our leading position in the automotive industry and be a pioneer in innovation and safety for vehicles worldwide. We are committed to placing high-quality glass products for our customers while emphasizing environmental sustainability and safety. In the future, we aim to be known as a company driving the transformation in the automotive glass industry. With our innovative products, excellent service, and sustainable production practices, we strive to increase customer satisfaction and social benefit.",
+  "mision-h1": "M",
+  "mision-p": "Our mission is to provide high-quality glass products that combine safety and comfort for vehicle owners while making a valuable contribution to the automotive industry. We aim to ensure the safety of drivers and passengers by manufacturing durable, transparent, and sustainable glass. Additionally, we continuously strive to develop green products, emphasizing environmental sustainability. Our goal is to maximize customer satisfaction and exceed industry standards.",
+  "footer-opening-hours-1": "Opening Hours: Monday - Friday: 8:00 AM - 6:00 PM / Saturday: 12:00 PM - 5:00 PM",
+  "footer-about-us-h1": "About Us",
+  "footer-about-us-p": "For years, we have been serving as a reliable and innovative brand in the automotive glass sector. Since our founding, we have maintained our industry leadership by offering customers high-quality and durable automotive glass. We work to meet the needs of our valued customers and make your vehicles safer and more comfortable.",
+  "footer-information-h1": "Information",
+  "footer-information-turkey-h2": "Turkey",
+  "footer-information-turkey-address-p": "Veysel Karani Mahallesi Eski Gemlik Yolu Caddesi 196/1 Osmangazi Bursa",
+  "footer-information-turkey-phonenumber-p": "+90 535 989 65 69",
+  "footer-information-germany-h2": "Germany",
+  "footer-information-germany-address-p": "Kolonnenstr. 8, 10827 Berlin",
+  "footer-information-germany-phonenumber-p": "+49 176 20173967",
+  "footer-information-mail-p": "info@crystalag.de",
+  "footer-follow-us-h1": "Follow Us",
+  "footer-copyright-p": "Copyright © 2009-2023 Crystal | Auto Glass"
+}

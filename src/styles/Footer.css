@@ -1,0 +1,222 @@
+.footer-container {
+  display: grid;
+  grid-template-rows: 1fr auto 1fr;
+  grid-template-columns: 1fr;
+  max-width: 1170px;
+  margin: auto;
+  margin-top: 3%;
+}
+
+.footer-top,
+.footer-bottom {
+  background-color: #2f2f2f;
+  color: #ccc;
+  padding: 20px;
+  text-align: left;
+}
+
+.footer-top hr,
+.footer-bottom hr {
+  border: none;
+  border-top: 1px solid #ffffff;
+  width: 100%;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+
+.footer-middle {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.column-1 {
+  background-color: #2f2f2f;
+  color: #ccc;
+  padding: 10px;
+  text-align: left;
+}
+
+.column-2 {
+  background-color: #2f2f2f;
+  color: #ccc;
+  padding: 10px;
+  text-align: left;
+}
+
+.column-3 {
+  background-color: #2f2f2f;
+  color: #ccc;
+  padding: 10px;
+  text-align: right;
+}
+
+.footer-opening-hours-1,
+.footer-opening-hours-2 {
+  font-size: 17px;
+  line-height: 1.5;
+}
+
+.footer-about-us-h1,
+.footer-information-h1,
+.footer-follow-us-h1 {
+  font-size: 23px;
+  line-height: 1.5;
+  letter-spacing: 0.5px;
+}
+
+.footer-about-us-h1 {
+  margin-left: 15px;
+}
+
+.footer-about-us-p {
+  font-size: 15px;
+  margin-left: 15px;
+  margin-top: 10px;
+  line-height: 1.5;
+}
+
+.footer-information-h1 {
+  margin-left: 70px;
+}
+
+.footer-information-turkey-h2,
+.footer-information-germany-h2 {
+  margin-left: 70px;
+  font-size: 16px;
+  margin-top: 10px;
+  line-height: 1.5;
+}
+
+.footer-information-turkey-address-p,
+.footer-information-turkey-phonenumber-p,
+.footer-information-germany-address-p,
+.footer-information-germany-phonenumber-p,
+.footer-information-mail-p {
+  font-size: 15px;
+  line-height: 1.5;
+  margin-top: -2px;
+}
+
+.footer-information-turkey-address-p a,
+.footer-information-turkey-phonenumber-p a,
+.footer-information-germany-address-p a,
+.footer-information-germany-phonenumber-p a,
+.footer-information-mail-p a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.footer-follow-us-h1 {
+  margin-right: 15px;
+}
+
+.footer-social-media-icons {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 10px 0 0 0;
+}
+
+.footer-social-media-icons > div {
+  margin-right: 20px;
+}
+
+.icon-with-text {
+  display: flex;
+  align-items: flex-start;
+  margin-left: 75px;
+}
+
+.footer-icons {
+  margin-right: 10px;
+}
+
+.scrollToTop {
+  position: fixed;
+  bottom: 80px;
+  right: 20%;
+  padding: 10px;
+  cursor: pointer;
+  z-index: 1000;
+  border-radius: 10%;
+}
+
+.scrollToTop:hover {
+  background: #2f2f2f;
+}
+
+.footer-copyright {
+  margin-top: 10px;
+}
+
+@media (max-width: 768px) {
+  .footer-top,
+  .footer-middle,
+  .footer-bottom {
+    display: flex;
+    flex-direction: column;
+    max-width: 403px;
+  }
+
+  .column-1,
+  .column-2,
+  .column-3 {
+    text-align: left;
+    border: none;
+  }
+
+  .footer-about-us-h1 {
+    margin-left: 15px;
+  }
+
+  .footer-about-us-p {
+    font-size: 15px;
+    margin-left: 15px;
+    margin-top: 10px;
+    line-height: 1.5;
+  }
+
+  .footer-information-h1 {
+    margin-left: 15px;
+  }
+
+  .footer-information-turkey-h2,
+  .footer-information-germany-h2 {
+    margin-left: 15px;
+    font-size: 16px;
+    margin-top: 10px;
+    line-height: 1.5;
+  }
+
+  .footer-follow-us-h1 {
+    margin-left: 15px;
+  }
+
+  .footer-social-media-icons {
+    display: flex;
+    align-items: left;
+    justify-content: flex-start;
+  }
+
+  .footer-social-media-icons > div {
+    margin-left: 15px;
+  }
+
+  .icon-with-text {
+    display: flex;
+    align-items: flex-start;
+    margin-left: 15px;
+  }
+
+  .footer-icons {
+    margin-right: 10px;
+  }
+
+  .footer-copyright {
+    margin-top: 10px;
+  }
+
+  .scrollToTop {
+    display: none;
+  }
+}

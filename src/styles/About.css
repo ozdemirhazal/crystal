@@ -1,0 +1,135 @@
+/* Genel konteyner */
+.about-container {
+  display: flex;
+  padding: 20px;
+  margin-top: 5%;
+  max-width: 1170px;
+  margin: auto;
+}
+
+.about-us {
+  text-align: center;
+}
+
+.about-us-text h1 {
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: #000;
+}
+
+.about-us-text p {
+  font-size: 20px;
+  color: #000;
+  text-align: center;
+  font-style: italic;
+  padding: 20px 500px;
+}
+
+.vision-image {
+  display: flex;
+  flex: 1;
+  justify-content: space-around;
+  align-items: center; /* Dikeyde ortala */
+}
+
+.vision-image img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.vision-text {
+  flex: 2;
+  padding: 50px;
+  color: #000;
+  text-align: left;
+}
+
+.vision-text p {
+  color: #000;
+  text-align: left;
+  margin-top: 30px;
+  font-weight: 1000px;
+  font-size: 16px;
+  text-align: center;
+}
+
+.about-us hr {
+  border: none;
+  border-top: 1px solid #0000001c;
+  width: 50%;
+  margin: auto;
+}
+
+@media only screen and (max-width: 768px) {
+  /* Genel konteyner */
+  .about-container {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    text-align: center;
+    margin-top: 5%;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+
+  /* About Us stillemesi */
+  .about-us {
+    margin-top: 15%;
+  }
+
+  .about-us-text h1 {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+  }
+
+  .about-us-text p {
+    font-size: 18px;
+    color: #000000;
+    text-align: center;
+    font-style: italic;
+    padding: 10px;
+  }
+
+  /* Vision sütunu */
+  .vision-image {
+    display: flex;
+    flex: 1;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  .vision-image img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  .vision-text {
+    flex: 2;
+    padding: 20px;
+    color: #000000;
+    text-align: center; /* Mobil cihazlarda metni ortala */
+  }
+
+  .vision-text p {
+    color: #000000;
+    text-align: center; /* Mobil cihazlarda metni ortala */
+    margin-top: 10px;
+    font-size: 16px;
+  }
+
+  .about-us hr {
+    border: none;
+    border-top: 1px solid #0000001c;
+    width: 80%;
+    margin: auto;
+    margin-top: 10px;
+  }
+}
