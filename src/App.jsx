@@ -7,7 +7,9 @@ import About from "./pages/AboutPage";
 function App() {
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter
+        basename={import.meta.env.DEV ? "/" : "/crystal-auto-glass/"}
+      >
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />

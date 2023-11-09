@@ -6,11 +6,6 @@ export default defineConfig(({ command }) => {
   const config = {
     plugins: [react()],
     base: "/",
-    server: {
-      mimeTypes: {
-        ".jsx": "application/javascript",
-      },
-    },
   };
 
   if (command !== "serve") {
